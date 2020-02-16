@@ -14,7 +14,7 @@ for (let i = 0; i < n; i++){
         if (winNumber === i){
             boxElement.textContent = 'Win!';
         } else {
-            boxElement.textContent = 'Lose';
+            boxElement.textContent = 'Shiiii';
         }
     }); 
 };
