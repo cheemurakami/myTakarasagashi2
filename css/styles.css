@@ -1,0 +1,16 @@
+.takaraBox{
+    width: 100px;
+    height: 100px;
+    background: pink;
+    text-align: center;
+    line-height: 100px;
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+    font-size: 20x;
+    cursor: pointer;
+    user-select: none;
+    padding: 5px 5px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
